@@ -1,0 +1,15 @@
+C:\Users\pasto\Desktop\c#Projects\StringParsing\StringParsing\bin\Debug\net6.0\StringParsing.exe
+C:\Users\pasto\Desktop\c#Projects\StringParsing\StringParsing\bin\Debug\net6.0\StringParsing.deps.json
+C:\Users\pasto\Desktop\c#Projects\StringParsing\StringParsing\bin\Debug\net6.0\StringParsing.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\StringParsing\StringParsing\bin\Debug\net6.0\StringParsing.dll
+C:\Users\pasto\Desktop\c#Projects\StringParsing\StringParsing\bin\Debug\net6.0\StringParsing.pdb
+C:\Users\pasto\Desktop\c#Projects\StringParsing\StringParsing\obj\Debug\net6.0\StringParsing.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\StringParsing\StringParsing\obj\Debug\net6.0\StringParsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\StringParsing\StringParsing\obj\Debug\net6.0\StringParsing.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\StringParsing\StringParsing\obj\Debug\net6.0\StringParsing.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\StringParsing\StringParsing\obj\Debug\net6.0\StringParsing.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\StringParsing\StringParsing\obj\Debug\net6.0\StringParsing.dll
+C:\Users\pasto\Desktop\c#Projects\StringParsing\StringParsing\obj\Debug\net6.0\refint\StringParsing.dll
+C:\Users\pasto\Desktop\c#Projects\StringParsing\StringParsing\obj\Debug\net6.0\StringParsing.pdb
+C:\Users\pasto\Desktop\c#Projects\StringParsing\StringParsing\obj\Debug\net6.0\StringParsing.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\StringParsing\StringParsing\obj\Debug\net6.0\ref\StringParsing.dll

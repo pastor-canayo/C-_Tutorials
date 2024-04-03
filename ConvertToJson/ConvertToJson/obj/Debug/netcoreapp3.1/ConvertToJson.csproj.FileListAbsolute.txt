@@ -1,0 +1,16 @@
+C:\Users\pasto\Desktop\c#Projects\ConvertToJson\ConvertToJson\bin\Debug\netcoreapp3.1\ConvertToJson.exe
+C:\Users\pasto\Desktop\c#Projects\ConvertToJson\ConvertToJson\bin\Debug\netcoreapp3.1\ConvertToJson.deps.json
+C:\Users\pasto\Desktop\c#Projects\ConvertToJson\ConvertToJson\bin\Debug\netcoreapp3.1\ConvertToJson.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\ConvertToJson\ConvertToJson\bin\Debug\netcoreapp3.1\ConvertToJson.runtimeconfig.dev.json
+C:\Users\pasto\Desktop\c#Projects\ConvertToJson\ConvertToJson\bin\Debug\netcoreapp3.1\ConvertToJson.dll
+C:\Users\pasto\Desktop\c#Projects\ConvertToJson\ConvertToJson\bin\Debug\netcoreapp3.1\ConvertToJson.pdb
+C:\Users\pasto\Desktop\c#Projects\ConvertToJson\ConvertToJson\obj\Debug\netcoreapp3.1\ConvertToJson.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\ConvertToJson\ConvertToJson\obj\Debug\netcoreapp3.1\ConvertToJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\ConvertToJson\ConvertToJson\obj\Debug\netcoreapp3.1\ConvertToJson.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\ConvertToJson\ConvertToJson\obj\Debug\netcoreapp3.1\ConvertToJson.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\ConvertToJson\ConvertToJson\obj\Debug\netcoreapp3.1\ConvertToJson.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\ConvertToJson\ConvertToJson\obj\Debug\netcoreapp3.1\ConvertToJson.dll
+C:\Users\pasto\Desktop\c#Projects\ConvertToJson\ConvertToJson\obj\Debug\netcoreapp3.1\ConvertToJson.pdb
+C:\Users\pasto\Desktop\c#Projects\ConvertToJson\ConvertToJson\obj\Debug\netcoreapp3.1\ConvertToJson.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\ConvertToJson\ConvertToJson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\pasto\Desktop\c#Projects\ConvertToJson\ConvertToJson\obj\Debug\netcoreapp3.1\ConvertToJson.csproj.CopyComplete

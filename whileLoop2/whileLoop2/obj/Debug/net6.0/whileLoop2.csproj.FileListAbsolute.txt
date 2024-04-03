@@ -1,0 +1,15 @@
+C:\Users\pasto\Desktop\c#Projects\whileLoop2\whileLoop2\bin\Debug\net6.0\whileLoop2.exe
+C:\Users\pasto\Desktop\c#Projects\whileLoop2\whileLoop2\bin\Debug\net6.0\whileLoop2.deps.json
+C:\Users\pasto\Desktop\c#Projects\whileLoop2\whileLoop2\bin\Debug\net6.0\whileLoop2.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\whileLoop2\whileLoop2\bin\Debug\net6.0\whileLoop2.dll
+C:\Users\pasto\Desktop\c#Projects\whileLoop2\whileLoop2\bin\Debug\net6.0\whileLoop2.pdb
+C:\Users\pasto\Desktop\c#Projects\whileLoop2\whileLoop2\obj\Debug\net6.0\whileLoop2.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\whileLoop2\whileLoop2\obj\Debug\net6.0\whileLoop2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\whileLoop2\whileLoop2\obj\Debug\net6.0\whileLoop2.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\whileLoop2\whileLoop2\obj\Debug\net6.0\whileLoop2.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\whileLoop2\whileLoop2\obj\Debug\net6.0\whileLoop2.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\whileLoop2\whileLoop2\obj\Debug\net6.0\whileLoop2.dll
+C:\Users\pasto\Desktop\c#Projects\whileLoop2\whileLoop2\obj\Debug\net6.0\refint\whileLoop2.dll
+C:\Users\pasto\Desktop\c#Projects\whileLoop2\whileLoop2\obj\Debug\net6.0\whileLoop2.pdb
+C:\Users\pasto\Desktop\c#Projects\whileLoop2\whileLoop2\obj\Debug\net6.0\whileLoop2.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\whileLoop2\whileLoop2\obj\Debug\net6.0\ref\whileLoop2.dll

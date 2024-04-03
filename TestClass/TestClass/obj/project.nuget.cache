@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yfkR3X2cLssKfDZqLEO+1+skhmA3MD35UCMqzGIT4udkKqb7+wCX3yDmgvxx3mtDEyWh6Y8FKHoQUF+2rBQPug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pasto\\Desktop\\c#Projects\\TestClass\\TestClass\\TestClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pasto\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

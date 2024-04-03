@@ -1,0 +1,15 @@
+C:\Users\pasto\Desktop\c#Projects\WriteTxt\WriteTxt\bin\Debug\net6.0\WriteTxt.exe
+C:\Users\pasto\Desktop\c#Projects\WriteTxt\WriteTxt\bin\Debug\net6.0\WriteTxt.deps.json
+C:\Users\pasto\Desktop\c#Projects\WriteTxt\WriteTxt\bin\Debug\net6.0\WriteTxt.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\WriteTxt\WriteTxt\bin\Debug\net6.0\WriteTxt.dll
+C:\Users\pasto\Desktop\c#Projects\WriteTxt\WriteTxt\bin\Debug\net6.0\WriteTxt.pdb
+C:\Users\pasto\Desktop\c#Projects\WriteTxt\WriteTxt\obj\Debug\net6.0\WriteTxt.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\WriteTxt\WriteTxt\obj\Debug\net6.0\WriteTxt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\WriteTxt\WriteTxt\obj\Debug\net6.0\WriteTxt.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\WriteTxt\WriteTxt\obj\Debug\net6.0\WriteTxt.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\WriteTxt\WriteTxt\obj\Debug\net6.0\WriteTxt.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\WriteTxt\WriteTxt\obj\Debug\net6.0\WriteTxt.dll
+C:\Users\pasto\Desktop\c#Projects\WriteTxt\WriteTxt\obj\Debug\net6.0\refint\WriteTxt.dll
+C:\Users\pasto\Desktop\c#Projects\WriteTxt\WriteTxt\obj\Debug\net6.0\WriteTxt.pdb
+C:\Users\pasto\Desktop\c#Projects\WriteTxt\WriteTxt\obj\Debug\net6.0\WriteTxt.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\WriteTxt\WriteTxt\obj\Debug\net6.0\ref\WriteTxt.dll

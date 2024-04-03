@@ -1,0 +1,15 @@
+C:\Users\pasto\Desktop\c#Projects\CreatingTextFile\CreatingTextFile\bin\Debug\net6.0\CreatingTextFile.exe
+C:\Users\pasto\Desktop\c#Projects\CreatingTextFile\CreatingTextFile\bin\Debug\net6.0\CreatingTextFile.deps.json
+C:\Users\pasto\Desktop\c#Projects\CreatingTextFile\CreatingTextFile\bin\Debug\net6.0\CreatingTextFile.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\CreatingTextFile\CreatingTextFile\bin\Debug\net6.0\CreatingTextFile.dll
+C:\Users\pasto\Desktop\c#Projects\CreatingTextFile\CreatingTextFile\bin\Debug\net6.0\CreatingTextFile.pdb
+C:\Users\pasto\Desktop\c#Projects\CreatingTextFile\CreatingTextFile\obj\Debug\net6.0\CreatingTextFile.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\CreatingTextFile\CreatingTextFile\obj\Debug\net6.0\CreatingTextFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\CreatingTextFile\CreatingTextFile\obj\Debug\net6.0\CreatingTextFile.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\CreatingTextFile\CreatingTextFile\obj\Debug\net6.0\CreatingTextFile.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\CreatingTextFile\CreatingTextFile\obj\Debug\net6.0\CreatingTextFile.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\CreatingTextFile\CreatingTextFile\obj\Debug\net6.0\CreatingTextFile.dll
+C:\Users\pasto\Desktop\c#Projects\CreatingTextFile\CreatingTextFile\obj\Debug\net6.0\refint\CreatingTextFile.dll
+C:\Users\pasto\Desktop\c#Projects\CreatingTextFile\CreatingTextFile\obj\Debug\net6.0\CreatingTextFile.pdb
+C:\Users\pasto\Desktop\c#Projects\CreatingTextFile\CreatingTextFile\obj\Debug\net6.0\CreatingTextFile.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\CreatingTextFile\CreatingTextFile\obj\Debug\net6.0\ref\CreatingTextFile.dll

@@ -1,0 +1,15 @@
+C:\Users\pasto\Desktop\c#Projects\AccessMo\AccessMo\bin\Debug\net6.0\AccessMo.exe
+C:\Users\pasto\Desktop\c#Projects\AccessMo\AccessMo\bin\Debug\net6.0\AccessMo.deps.json
+C:\Users\pasto\Desktop\c#Projects\AccessMo\AccessMo\bin\Debug\net6.0\AccessMo.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\AccessMo\AccessMo\bin\Debug\net6.0\AccessMo.dll
+C:\Users\pasto\Desktop\c#Projects\AccessMo\AccessMo\bin\Debug\net6.0\AccessMo.pdb
+C:\Users\pasto\Desktop\c#Projects\AccessMo\AccessMo\obj\Debug\net6.0\AccessMo.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\AccessMo\AccessMo\obj\Debug\net6.0\AccessMo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\AccessMo\AccessMo\obj\Debug\net6.0\AccessMo.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\AccessMo\AccessMo\obj\Debug\net6.0\AccessMo.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\AccessMo\AccessMo\obj\Debug\net6.0\AccessMo.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\AccessMo\AccessMo\obj\Debug\net6.0\AccessMo.dll
+C:\Users\pasto\Desktop\c#Projects\AccessMo\AccessMo\obj\Debug\net6.0\refint\AccessMo.dll
+C:\Users\pasto\Desktop\c#Projects\AccessMo\AccessMo\obj\Debug\net6.0\AccessMo.pdb
+C:\Users\pasto\Desktop\c#Projects\AccessMo\AccessMo\obj\Debug\net6.0\AccessMo.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\AccessMo\AccessMo\obj\Debug\net6.0\ref\AccessMo.dll

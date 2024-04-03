@@ -1,0 +1,17 @@
+C:\Users\pasto\Desktop\c#Projects\CheckBoxBackgroundImages\CheckBoxBackgroundImages\bin\Debug\net6.0-windows\CheckBoxBackgroundImages.exe
+C:\Users\pasto\Desktop\c#Projects\CheckBoxBackgroundImages\CheckBoxBackgroundImages\bin\Debug\net6.0-windows\CheckBoxBackgroundImages.deps.json
+C:\Users\pasto\Desktop\c#Projects\CheckBoxBackgroundImages\CheckBoxBackgroundImages\bin\Debug\net6.0-windows\CheckBoxBackgroundImages.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\CheckBoxBackgroundImages\CheckBoxBackgroundImages\bin\Debug\net6.0-windows\CheckBoxBackgroundImages.dll
+C:\Users\pasto\Desktop\c#Projects\CheckBoxBackgroundImages\CheckBoxBackgroundImages\bin\Debug\net6.0-windows\CheckBoxBackgroundImages.pdb
+C:\Users\pasto\Desktop\c#Projects\CheckBoxBackgroundImages\CheckBoxBackgroundImages\obj\Debug\net6.0-windows\CheckBoxBackgroundImages.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\CheckBoxBackgroundImages\CheckBoxBackgroundImages\obj\Debug\net6.0-windows\CheckBoxBackgroundImages.Form1.resources
+C:\Users\pasto\Desktop\c#Projects\CheckBoxBackgroundImages\CheckBoxBackgroundImages\obj\Debug\net6.0-windows\CheckBoxBackgroundImages.csproj.GenerateResource.cache
+C:\Users\pasto\Desktop\c#Projects\CheckBoxBackgroundImages\CheckBoxBackgroundImages\obj\Debug\net6.0-windows\CheckBoxBackgroundImages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\CheckBoxBackgroundImages\CheckBoxBackgroundImages\obj\Debug\net6.0-windows\CheckBoxBackgroundImages.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\CheckBoxBackgroundImages\CheckBoxBackgroundImages\obj\Debug\net6.0-windows\CheckBoxBackgroundImages.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\CheckBoxBackgroundImages\CheckBoxBackgroundImages\obj\Debug\net6.0-windows\CheckBoxBackgroundImages.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\CheckBoxBackgroundImages\CheckBoxBackgroundImages\obj\Debug\net6.0-windows\CheckBoxBackgroundImages.dll
+C:\Users\pasto\Desktop\c#Projects\CheckBoxBackgroundImages\CheckBoxBackgroundImages\obj\Debug\net6.0-windows\refint\CheckBoxBackgroundImages.dll
+C:\Users\pasto\Desktop\c#Projects\CheckBoxBackgroundImages\CheckBoxBackgroundImages\obj\Debug\net6.0-windows\CheckBoxBackgroundImages.pdb
+C:\Users\pasto\Desktop\c#Projects\CheckBoxBackgroundImages\CheckBoxBackgroundImages\obj\Debug\net6.0-windows\CheckBoxBackgroundImages.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\CheckBoxBackgroundImages\CheckBoxBackgroundImages\obj\Debug\net6.0-windows\ref\CheckBoxBackgroundImages.dll

@@ -1,0 +1,15 @@
+C:\Users\pasto\Desktop\c#Projects\CollectioArray\CollectioArray\bin\Debug\net6.0\CollectioArray.exe
+C:\Users\pasto\Desktop\c#Projects\CollectioArray\CollectioArray\bin\Debug\net6.0\CollectioArray.deps.json
+C:\Users\pasto\Desktop\c#Projects\CollectioArray\CollectioArray\bin\Debug\net6.0\CollectioArray.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\CollectioArray\CollectioArray\bin\Debug\net6.0\CollectioArray.dll
+C:\Users\pasto\Desktop\c#Projects\CollectioArray\CollectioArray\bin\Debug\net6.0\CollectioArray.pdb
+C:\Users\pasto\Desktop\c#Projects\CollectioArray\CollectioArray\obj\Debug\net6.0\CollectioArray.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\CollectioArray\CollectioArray\obj\Debug\net6.0\CollectioArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\CollectioArray\CollectioArray\obj\Debug\net6.0\CollectioArray.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\CollectioArray\CollectioArray\obj\Debug\net6.0\CollectioArray.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\CollectioArray\CollectioArray\obj\Debug\net6.0\CollectioArray.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\CollectioArray\CollectioArray\obj\Debug\net6.0\CollectioArray.dll
+C:\Users\pasto\Desktop\c#Projects\CollectioArray\CollectioArray\obj\Debug\net6.0\refint\CollectioArray.dll
+C:\Users\pasto\Desktop\c#Projects\CollectioArray\CollectioArray\obj\Debug\net6.0\CollectioArray.pdb
+C:\Users\pasto\Desktop\c#Projects\CollectioArray\CollectioArray\obj\Debug\net6.0\CollectioArray.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\CollectioArray\CollectioArray\obj\Debug\net6.0\ref\CollectioArray.dll

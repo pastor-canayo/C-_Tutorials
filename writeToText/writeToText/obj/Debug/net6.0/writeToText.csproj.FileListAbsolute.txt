@@ -1,0 +1,15 @@
+C:\Users\pasto\Desktop\c#Projects\writeToText\writeToText\bin\Debug\net6.0\writeToText.exe
+C:\Users\pasto\Desktop\c#Projects\writeToText\writeToText\bin\Debug\net6.0\writeToText.deps.json
+C:\Users\pasto\Desktop\c#Projects\writeToText\writeToText\bin\Debug\net6.0\writeToText.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\writeToText\writeToText\bin\Debug\net6.0\writeToText.dll
+C:\Users\pasto\Desktop\c#Projects\writeToText\writeToText\bin\Debug\net6.0\writeToText.pdb
+C:\Users\pasto\Desktop\c#Projects\writeToText\writeToText\obj\Debug\net6.0\writeToText.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\writeToText\writeToText\obj\Debug\net6.0\writeToText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\writeToText\writeToText\obj\Debug\net6.0\writeToText.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\writeToText\writeToText\obj\Debug\net6.0\writeToText.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\writeToText\writeToText\obj\Debug\net6.0\writeToText.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\writeToText\writeToText\obj\Debug\net6.0\writeToText.dll
+C:\Users\pasto\Desktop\c#Projects\writeToText\writeToText\obj\Debug\net6.0\refint\writeToText.dll
+C:\Users\pasto\Desktop\c#Projects\writeToText\writeToText\obj\Debug\net6.0\writeToText.pdb
+C:\Users\pasto\Desktop\c#Projects\writeToText\writeToText\obj\Debug\net6.0\writeToText.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\writeToText\writeToText\obj\Debug\net6.0\ref\writeToText.dll

@@ -1,0 +1,17 @@
+C:\Users\pasto\Desktop\c#Projects\backupFolder\backupFolder\bin\Debug\net6.0-windows\backupFolder.exe
+C:\Users\pasto\Desktop\c#Projects\backupFolder\backupFolder\bin\Debug\net6.0-windows\backupFolder.deps.json
+C:\Users\pasto\Desktop\c#Projects\backupFolder\backupFolder\bin\Debug\net6.0-windows\backupFolder.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\backupFolder\backupFolder\bin\Debug\net6.0-windows\backupFolder.dll
+C:\Users\pasto\Desktop\c#Projects\backupFolder\backupFolder\bin\Debug\net6.0-windows\backupFolder.pdb
+C:\Users\pasto\Desktop\c#Projects\backupFolder\backupFolder\obj\Debug\net6.0-windows\backupFolder.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\backupFolder\backupFolder\obj\Debug\net6.0-windows\backupFolder.Form1.resources
+C:\Users\pasto\Desktop\c#Projects\backupFolder\backupFolder\obj\Debug\net6.0-windows\backupFolder.csproj.GenerateResource.cache
+C:\Users\pasto\Desktop\c#Projects\backupFolder\backupFolder\obj\Debug\net6.0-windows\backupFolder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\backupFolder\backupFolder\obj\Debug\net6.0-windows\backupFolder.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\backupFolder\backupFolder\obj\Debug\net6.0-windows\backupFolder.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\backupFolder\backupFolder\obj\Debug\net6.0-windows\backupFolder.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\backupFolder\backupFolder\obj\Debug\net6.0-windows\backupFolder.dll
+C:\Users\pasto\Desktop\c#Projects\backupFolder\backupFolder\obj\Debug\net6.0-windows\refint\backupFolder.dll
+C:\Users\pasto\Desktop\c#Projects\backupFolder\backupFolder\obj\Debug\net6.0-windows\backupFolder.pdb
+C:\Users\pasto\Desktop\c#Projects\backupFolder\backupFolder\obj\Debug\net6.0-windows\backupFolder.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\backupFolder\backupFolder\obj\Debug\net6.0-windows\ref\backupFolder.dll

@@ -1,0 +1,15 @@
+C:\Users\pasto\Desktop\c#Projects\RandomName\RandomName\bin\Debug\net6.0\RandomName.exe
+C:\Users\pasto\Desktop\c#Projects\RandomName\RandomName\bin\Debug\net6.0\RandomName.deps.json
+C:\Users\pasto\Desktop\c#Projects\RandomName\RandomName\bin\Debug\net6.0\RandomName.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\RandomName\RandomName\bin\Debug\net6.0\RandomName.dll
+C:\Users\pasto\Desktop\c#Projects\RandomName\RandomName\bin\Debug\net6.0\RandomName.pdb
+C:\Users\pasto\Desktop\c#Projects\RandomName\RandomName\obj\Debug\net6.0\RandomName.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\RandomName\RandomName\obj\Debug\net6.0\RandomName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\RandomName\RandomName\obj\Debug\net6.0\RandomName.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\RandomName\RandomName\obj\Debug\net6.0\RandomName.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\RandomName\RandomName\obj\Debug\net6.0\RandomName.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\RandomName\RandomName\obj\Debug\net6.0\RandomName.dll
+C:\Users\pasto\Desktop\c#Projects\RandomName\RandomName\obj\Debug\net6.0\refint\RandomName.dll
+C:\Users\pasto\Desktop\c#Projects\RandomName\RandomName\obj\Debug\net6.0\RandomName.pdb
+C:\Users\pasto\Desktop\c#Projects\RandomName\RandomName\obj\Debug\net6.0\RandomName.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\RandomName\RandomName\obj\Debug\net6.0\ref\RandomName.dll

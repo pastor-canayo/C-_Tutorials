@@ -1,0 +1,10 @@
+C:\Users\pasto\Desktop\c#Projects\RnadomNum\RnadomNum\bin\Debug\RnadomNum.exe.config
+C:\Users\pasto\Desktop\c#Projects\RnadomNum\RnadomNum\bin\Debug\RnadomNum.exe
+C:\Users\pasto\Desktop\c#Projects\RnadomNum\RnadomNum\bin\Debug\RnadomNum.pdb
+C:\Users\pasto\Desktop\c#Projects\RnadomNum\RnadomNum\obj\Debug\RnadomNum.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\RnadomNum\RnadomNum\obj\Debug\RnadomNum.Form1.resources
+C:\Users\pasto\Desktop\c#Projects\RnadomNum\RnadomNum\obj\Debug\RnadomNum.Properties.Resources.resources
+C:\Users\pasto\Desktop\c#Projects\RnadomNum\RnadomNum\obj\Debug\RnadomNum.csproj.GenerateResource.cache
+C:\Users\pasto\Desktop\c#Projects\RnadomNum\RnadomNum\obj\Debug\RnadomNum.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\RnadomNum\RnadomNum\obj\Debug\RnadomNum.exe
+C:\Users\pasto\Desktop\c#Projects\RnadomNum\RnadomNum\obj\Debug\RnadomNum.pdb

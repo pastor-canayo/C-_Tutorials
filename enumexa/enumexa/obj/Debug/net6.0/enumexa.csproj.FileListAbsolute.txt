@@ -1,0 +1,15 @@
+C:\Users\pasto\Desktop\c#Projects\enumexa\enumexa\bin\Debug\net6.0\enumexa.exe
+C:\Users\pasto\Desktop\c#Projects\enumexa\enumexa\bin\Debug\net6.0\enumexa.deps.json
+C:\Users\pasto\Desktop\c#Projects\enumexa\enumexa\bin\Debug\net6.0\enumexa.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\enumexa\enumexa\bin\Debug\net6.0\enumexa.dll
+C:\Users\pasto\Desktop\c#Projects\enumexa\enumexa\bin\Debug\net6.0\enumexa.pdb
+C:\Users\pasto\Desktop\c#Projects\enumexa\enumexa\obj\Debug\net6.0\enumexa.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\enumexa\enumexa\obj\Debug\net6.0\enumexa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\enumexa\enumexa\obj\Debug\net6.0\enumexa.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\enumexa\enumexa\obj\Debug\net6.0\enumexa.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\enumexa\enumexa\obj\Debug\net6.0\enumexa.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\enumexa\enumexa\obj\Debug\net6.0\enumexa.dll
+C:\Users\pasto\Desktop\c#Projects\enumexa\enumexa\obj\Debug\net6.0\refint\enumexa.dll
+C:\Users\pasto\Desktop\c#Projects\enumexa\enumexa\obj\Debug\net6.0\enumexa.pdb
+C:\Users\pasto\Desktop\c#Projects\enumexa\enumexa\obj\Debug\net6.0\enumexa.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\enumexa\enumexa\obj\Debug\net6.0\ref\enumexa.dll

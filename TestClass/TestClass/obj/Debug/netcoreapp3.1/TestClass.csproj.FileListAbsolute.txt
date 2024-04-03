@@ -1,0 +1,16 @@
+C:\Users\pasto\Desktop\c#Projects\TestClass\TestClass\obj\Debug\netcoreapp3.1\TestClass.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\TestClass\TestClass\obj\Debug\netcoreapp3.1\TestClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\TestClass\TestClass\obj\Debug\netcoreapp3.1\TestClass.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\TestClass\TestClass\obj\Debug\netcoreapp3.1\TestClass.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\TestClass\TestClass\obj\Debug\netcoreapp3.1\TestClass.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\TestClass\TestClass\bin\Debug\netcoreapp3.1\TestClass.exe
+C:\Users\pasto\Desktop\c#Projects\TestClass\TestClass\bin\Debug\netcoreapp3.1\TestClass.deps.json
+C:\Users\pasto\Desktop\c#Projects\TestClass\TestClass\bin\Debug\netcoreapp3.1\TestClass.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\TestClass\TestClass\bin\Debug\netcoreapp3.1\TestClass.runtimeconfig.dev.json
+C:\Users\pasto\Desktop\c#Projects\TestClass\TestClass\bin\Debug\netcoreapp3.1\TestClass.dll
+C:\Users\pasto\Desktop\c#Projects\TestClass\TestClass\bin\Debug\netcoreapp3.1\TestClass.pdb
+C:\Users\pasto\Desktop\c#Projects\TestClass\TestClass\obj\Debug\netcoreapp3.1\TestClass.dll
+C:\Users\pasto\Desktop\c#Projects\TestClass\TestClass\obj\Debug\netcoreapp3.1\TestClass.pdb
+C:\Users\pasto\Desktop\c#Projects\TestClass\TestClass\obj\Debug\netcoreapp3.1\TestClass.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\TestClass\TestClass\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\pasto\Desktop\c#Projects\TestClass\TestClass\obj\Debug\netcoreapp3.1\TestClass.csproj.CopyComplete

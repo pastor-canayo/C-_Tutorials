@@ -1,0 +1,10 @@
+C:\Users\pasto\Desktop\c#Projects\carRental\carRental\bin\Debug\carRental.exe.config
+C:\Users\pasto\Desktop\c#Projects\carRental\carRental\bin\Debug\carRental.exe
+C:\Users\pasto\Desktop\c#Projects\carRental\carRental\bin\Debug\carRental.pdb
+C:\Users\pasto\Desktop\c#Projects\carRental\carRental\obj\Debug\carRental.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\carRental\carRental\obj\Debug\carRental.Form1.resources
+C:\Users\pasto\Desktop\c#Projects\carRental\carRental\obj\Debug\carRental.Properties.Resources.resources
+C:\Users\pasto\Desktop\c#Projects\carRental\carRental\obj\Debug\carRental.csproj.GenerateResource.cache
+C:\Users\pasto\Desktop\c#Projects\carRental\carRental\obj\Debug\carRental.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\carRental\carRental\obj\Debug\carRental.exe
+C:\Users\pasto\Desktop\c#Projects\carRental\carRental\obj\Debug\carRental.pdb

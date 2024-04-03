@@ -1,0 +1,15 @@
+C:\Users\pasto\Desktop\c#Projects\WhileLoopMania\WhileLoopMania\bin\Debug\net6.0\WhileLoopMania.exe
+C:\Users\pasto\Desktop\c#Projects\WhileLoopMania\WhileLoopMania\bin\Debug\net6.0\WhileLoopMania.deps.json
+C:\Users\pasto\Desktop\c#Projects\WhileLoopMania\WhileLoopMania\bin\Debug\net6.0\WhileLoopMania.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\WhileLoopMania\WhileLoopMania\bin\Debug\net6.0\WhileLoopMania.dll
+C:\Users\pasto\Desktop\c#Projects\WhileLoopMania\WhileLoopMania\bin\Debug\net6.0\WhileLoopMania.pdb
+C:\Users\pasto\Desktop\c#Projects\WhileLoopMania\WhileLoopMania\obj\Debug\net6.0\WhileLoopMania.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\WhileLoopMania\WhileLoopMania\obj\Debug\net6.0\WhileLoopMania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\WhileLoopMania\WhileLoopMania\obj\Debug\net6.0\WhileLoopMania.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\WhileLoopMania\WhileLoopMania\obj\Debug\net6.0\WhileLoopMania.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\WhileLoopMania\WhileLoopMania\obj\Debug\net6.0\WhileLoopMania.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\WhileLoopMania\WhileLoopMania\obj\Debug\net6.0\WhileLoopMania.dll
+C:\Users\pasto\Desktop\c#Projects\WhileLoopMania\WhileLoopMania\obj\Debug\net6.0\refint\WhileLoopMania.dll
+C:\Users\pasto\Desktop\c#Projects\WhileLoopMania\WhileLoopMania\obj\Debug\net6.0\WhileLoopMania.pdb
+C:\Users\pasto\Desktop\c#Projects\WhileLoopMania\WhileLoopMania\obj\Debug\net6.0\WhileLoopMania.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\WhileLoopMania\WhileLoopMania\obj\Debug\net6.0\ref\WhileLoopMania.dll

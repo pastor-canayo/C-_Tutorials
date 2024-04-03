@@ -1,0 +1,14 @@
+C:\Users\pasto\Desktop\c#Projects\Encapsulation3\Encapsulation3\bin\Debug\netcoreapp3.1\Encapsulation3.exe
+C:\Users\pasto\Desktop\c#Projects\Encapsulation3\Encapsulation3\bin\Debug\netcoreapp3.1\Encapsulation3.deps.json
+C:\Users\pasto\Desktop\c#Projects\Encapsulation3\Encapsulation3\bin\Debug\netcoreapp3.1\Encapsulation3.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\Encapsulation3\Encapsulation3\bin\Debug\netcoreapp3.1\Encapsulation3.runtimeconfig.dev.json
+C:\Users\pasto\Desktop\c#Projects\Encapsulation3\Encapsulation3\bin\Debug\netcoreapp3.1\Encapsulation3.dll
+C:\Users\pasto\Desktop\c#Projects\Encapsulation3\Encapsulation3\bin\Debug\netcoreapp3.1\Encapsulation3.pdb
+C:\Users\pasto\Desktop\c#Projects\Encapsulation3\Encapsulation3\obj\Debug\netcoreapp3.1\Encapsulation3.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\Encapsulation3\Encapsulation3\obj\Debug\netcoreapp3.1\Encapsulation3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\Encapsulation3\Encapsulation3\obj\Debug\netcoreapp3.1\Encapsulation3.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\Encapsulation3\Encapsulation3\obj\Debug\netcoreapp3.1\Encapsulation3.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\Encapsulation3\Encapsulation3\obj\Debug\netcoreapp3.1\Encapsulation3.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\Encapsulation3\Encapsulation3\obj\Debug\netcoreapp3.1\Encapsulation3.dll
+C:\Users\pasto\Desktop\c#Projects\Encapsulation3\Encapsulation3\obj\Debug\netcoreapp3.1\Encapsulation3.pdb
+C:\Users\pasto\Desktop\c#Projects\Encapsulation3\Encapsulation3\obj\Debug\netcoreapp3.1\Encapsulation3.genruntimeconfig.cache

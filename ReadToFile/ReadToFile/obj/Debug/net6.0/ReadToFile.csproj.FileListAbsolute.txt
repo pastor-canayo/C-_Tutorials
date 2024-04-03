@@ -1,0 +1,15 @@
+C:\Users\pasto\Desktop\c#Projects\ReadToFile\ReadToFile\bin\Debug\net6.0\ReadToFile.exe
+C:\Users\pasto\Desktop\c#Projects\ReadToFile\ReadToFile\bin\Debug\net6.0\ReadToFile.deps.json
+C:\Users\pasto\Desktop\c#Projects\ReadToFile\ReadToFile\bin\Debug\net6.0\ReadToFile.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\ReadToFile\ReadToFile\bin\Debug\net6.0\ReadToFile.dll
+C:\Users\pasto\Desktop\c#Projects\ReadToFile\ReadToFile\bin\Debug\net6.0\ReadToFile.pdb
+C:\Users\pasto\Desktop\c#Projects\ReadToFile\ReadToFile\obj\Debug\net6.0\ReadToFile.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\ReadToFile\ReadToFile\obj\Debug\net6.0\ReadToFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\ReadToFile\ReadToFile\obj\Debug\net6.0\ReadToFile.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\ReadToFile\ReadToFile\obj\Debug\net6.0\ReadToFile.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\ReadToFile\ReadToFile\obj\Debug\net6.0\ReadToFile.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\ReadToFile\ReadToFile\obj\Debug\net6.0\ReadToFile.dll
+C:\Users\pasto\Desktop\c#Projects\ReadToFile\ReadToFile\obj\Debug\net6.0\refint\ReadToFile.dll
+C:\Users\pasto\Desktop\c#Projects\ReadToFile\ReadToFile\obj\Debug\net6.0\ReadToFile.pdb
+C:\Users\pasto\Desktop\c#Projects\ReadToFile\ReadToFile\obj\Debug\net6.0\ReadToFile.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\ReadToFile\ReadToFile\obj\Debug\net6.0\ref\ReadToFile.dll

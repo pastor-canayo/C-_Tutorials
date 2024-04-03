@@ -1,0 +1,17 @@
+C:\Users\pasto\Desktop\c#Projects\SplittingStrings\SplittingStrings\bin\Debug\net6.0-windows\SplittingStrings.exe
+C:\Users\pasto\Desktop\c#Projects\SplittingStrings\SplittingStrings\bin\Debug\net6.0-windows\SplittingStrings.deps.json
+C:\Users\pasto\Desktop\c#Projects\SplittingStrings\SplittingStrings\bin\Debug\net6.0-windows\SplittingStrings.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\SplittingStrings\SplittingStrings\bin\Debug\net6.0-windows\SplittingStrings.dll
+C:\Users\pasto\Desktop\c#Projects\SplittingStrings\SplittingStrings\bin\Debug\net6.0-windows\SplittingStrings.pdb
+C:\Users\pasto\Desktop\c#Projects\SplittingStrings\SplittingStrings\obj\Debug\net6.0-windows\SplittingStrings.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\SplittingStrings\SplittingStrings\obj\Debug\net6.0-windows\SplittingStrings.Form1.resources
+C:\Users\pasto\Desktop\c#Projects\SplittingStrings\SplittingStrings\obj\Debug\net6.0-windows\SplittingStrings.csproj.GenerateResource.cache
+C:\Users\pasto\Desktop\c#Projects\SplittingStrings\SplittingStrings\obj\Debug\net6.0-windows\SplittingStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\SplittingStrings\SplittingStrings\obj\Debug\net6.0-windows\SplittingStrings.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\SplittingStrings\SplittingStrings\obj\Debug\net6.0-windows\SplittingStrings.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\SplittingStrings\SplittingStrings\obj\Debug\net6.0-windows\SplittingStrings.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\SplittingStrings\SplittingStrings\obj\Debug\net6.0-windows\SplittingStrings.dll
+C:\Users\pasto\Desktop\c#Projects\SplittingStrings\SplittingStrings\obj\Debug\net6.0-windows\refint\SplittingStrings.dll
+C:\Users\pasto\Desktop\c#Projects\SplittingStrings\SplittingStrings\obj\Debug\net6.0-windows\SplittingStrings.pdb
+C:\Users\pasto\Desktop\c#Projects\SplittingStrings\SplittingStrings\obj\Debug\net6.0-windows\SplittingStrings.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\SplittingStrings\SplittingStrings\obj\Debug\net6.0-windows\ref\SplittingStrings.dll

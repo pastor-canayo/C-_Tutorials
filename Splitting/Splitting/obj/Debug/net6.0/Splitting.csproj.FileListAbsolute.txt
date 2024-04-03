@@ -1,0 +1,15 @@
+C:\Users\pasto\Desktop\c#Projects\Splitting\Splitting\bin\Debug\net6.0\Splitting.exe
+C:\Users\pasto\Desktop\c#Projects\Splitting\Splitting\bin\Debug\net6.0\Splitting.deps.json
+C:\Users\pasto\Desktop\c#Projects\Splitting\Splitting\bin\Debug\net6.0\Splitting.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\Splitting\Splitting\bin\Debug\net6.0\Splitting.dll
+C:\Users\pasto\Desktop\c#Projects\Splitting\Splitting\bin\Debug\net6.0\Splitting.pdb
+C:\Users\pasto\Desktop\c#Projects\Splitting\Splitting\obj\Debug\net6.0\Splitting.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\Splitting\Splitting\obj\Debug\net6.0\Splitting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\Splitting\Splitting\obj\Debug\net6.0\Splitting.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\Splitting\Splitting\obj\Debug\net6.0\Splitting.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\Splitting\Splitting\obj\Debug\net6.0\Splitting.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\Splitting\Splitting\obj\Debug\net6.0\Splitting.dll
+C:\Users\pasto\Desktop\c#Projects\Splitting\Splitting\obj\Debug\net6.0\refint\Splitting.dll
+C:\Users\pasto\Desktop\c#Projects\Splitting\Splitting\obj\Debug\net6.0\Splitting.pdb
+C:\Users\pasto\Desktop\c#Projects\Splitting\Splitting\obj\Debug\net6.0\Splitting.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\Splitting\Splitting\obj\Debug\net6.0\ref\Splitting.dll

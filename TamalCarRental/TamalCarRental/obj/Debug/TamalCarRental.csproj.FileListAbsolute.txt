@@ -1,0 +1,10 @@
+C:\Users\pasto\Desktop\c#Projects\TamalCarRental\TamalCarRental\bin\Debug\TamalCarRental.exe.config
+C:\Users\pasto\Desktop\c#Projects\TamalCarRental\TamalCarRental\bin\Debug\TamalCarRental.exe
+C:\Users\pasto\Desktop\c#Projects\TamalCarRental\TamalCarRental\bin\Debug\TamalCarRental.pdb
+C:\Users\pasto\Desktop\c#Projects\TamalCarRental\TamalCarRental\obj\Debug\TamalCarRental.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\TamalCarRental\TamalCarRental\obj\Debug\TamalCarRental.Form1.resources
+C:\Users\pasto\Desktop\c#Projects\TamalCarRental\TamalCarRental\obj\Debug\TamalCarRental.Properties.Resources.resources
+C:\Users\pasto\Desktop\c#Projects\TamalCarRental\TamalCarRental\obj\Debug\TamalCarRental.csproj.GenerateResource.cache
+C:\Users\pasto\Desktop\c#Projects\TamalCarRental\TamalCarRental\obj\Debug\TamalCarRental.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\TamalCarRental\TamalCarRental\obj\Debug\TamalCarRental.exe
+C:\Users\pasto\Desktop\c#Projects\TamalCarRental\TamalCarRental\obj\Debug\TamalCarRental.pdb

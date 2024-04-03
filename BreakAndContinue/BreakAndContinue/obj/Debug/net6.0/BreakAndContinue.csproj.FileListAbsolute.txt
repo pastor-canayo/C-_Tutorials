@@ -1,0 +1,15 @@
+C:\Users\pasto\Desktop\c#Projects\BreakAndContinue\BreakAndContinue\bin\Debug\net6.0\BreakAndContinue.exe
+C:\Users\pasto\Desktop\c#Projects\BreakAndContinue\BreakAndContinue\bin\Debug\net6.0\BreakAndContinue.deps.json
+C:\Users\pasto\Desktop\c#Projects\BreakAndContinue\BreakAndContinue\bin\Debug\net6.0\BreakAndContinue.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\BreakAndContinue\BreakAndContinue\bin\Debug\net6.0\BreakAndContinue.dll
+C:\Users\pasto\Desktop\c#Projects\BreakAndContinue\BreakAndContinue\bin\Debug\net6.0\BreakAndContinue.pdb
+C:\Users\pasto\Desktop\c#Projects\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\BreakAndContinue.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\BreakAndContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\BreakAndContinue.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\BreakAndContinue.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\BreakAndContinue.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\BreakAndContinue.dll
+C:\Users\pasto\Desktop\c#Projects\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\refint\BreakAndContinue.dll
+C:\Users\pasto\Desktop\c#Projects\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\BreakAndContinue.pdb
+C:\Users\pasto\Desktop\c#Projects\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\BreakAndContinue.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\BreakAndContinue\BreakAndContinue\obj\Debug\net6.0\ref\BreakAndContinue.dll

@@ -1,0 +1,15 @@
+C:\Users\pasto\Desktop\c#Projects\enumTu\enumTu\bin\Debug\net6.0\enumTu.exe
+C:\Users\pasto\Desktop\c#Projects\enumTu\enumTu\bin\Debug\net6.0\enumTu.deps.json
+C:\Users\pasto\Desktop\c#Projects\enumTu\enumTu\bin\Debug\net6.0\enumTu.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\enumTu\enumTu\bin\Debug\net6.0\enumTu.dll
+C:\Users\pasto\Desktop\c#Projects\enumTu\enumTu\bin\Debug\net6.0\enumTu.pdb
+C:\Users\pasto\Desktop\c#Projects\enumTu\enumTu\obj\Debug\net6.0\enumTu.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\enumTu\enumTu\obj\Debug\net6.0\enumTu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\enumTu\enumTu\obj\Debug\net6.0\enumTu.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\enumTu\enumTu\obj\Debug\net6.0\enumTu.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\enumTu\enumTu\obj\Debug\net6.0\enumTu.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\enumTu\enumTu\obj\Debug\net6.0\enumTu.dll
+C:\Users\pasto\Desktop\c#Projects\enumTu\enumTu\obj\Debug\net6.0\refint\enumTu.dll
+C:\Users\pasto\Desktop\c#Projects\enumTu\enumTu\obj\Debug\net6.0\enumTu.pdb
+C:\Users\pasto\Desktop\c#Projects\enumTu\enumTu\obj\Debug\net6.0\enumTu.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\enumTu\enumTu\obj\Debug\net6.0\ref\enumTu.dll

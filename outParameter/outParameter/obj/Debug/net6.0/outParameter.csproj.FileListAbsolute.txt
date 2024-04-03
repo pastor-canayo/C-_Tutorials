@@ -1,0 +1,15 @@
+C:\Users\pasto\Desktop\c#Projects\outParameter\outParameter\bin\Debug\net6.0\outParameter.exe
+C:\Users\pasto\Desktop\c#Projects\outParameter\outParameter\bin\Debug\net6.0\outParameter.deps.json
+C:\Users\pasto\Desktop\c#Projects\outParameter\outParameter\bin\Debug\net6.0\outParameter.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\outParameter\outParameter\bin\Debug\net6.0\outParameter.dll
+C:\Users\pasto\Desktop\c#Projects\outParameter\outParameter\bin\Debug\net6.0\outParameter.pdb
+C:\Users\pasto\Desktop\c#Projects\outParameter\outParameter\obj\Debug\net6.0\outParameter.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\outParameter\outParameter\obj\Debug\net6.0\outParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\outParameter\outParameter\obj\Debug\net6.0\outParameter.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\outParameter\outParameter\obj\Debug\net6.0\outParameter.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\outParameter\outParameter\obj\Debug\net6.0\outParameter.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\outParameter\outParameter\obj\Debug\net6.0\outParameter.dll
+C:\Users\pasto\Desktop\c#Projects\outParameter\outParameter\obj\Debug\net6.0\refint\outParameter.dll
+C:\Users\pasto\Desktop\c#Projects\outParameter\outParameter\obj\Debug\net6.0\outParameter.pdb
+C:\Users\pasto\Desktop\c#Projects\outParameter\outParameter\obj\Debug\net6.0\outParameter.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\outParameter\outParameter\obj\Debug\net6.0\ref\outParameter.dll

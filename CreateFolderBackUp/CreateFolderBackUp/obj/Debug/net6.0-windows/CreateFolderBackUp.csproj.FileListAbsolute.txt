@@ -1,0 +1,17 @@
+C:\Users\pasto\Desktop\c#Projects\CreateFolderBackUp\CreateFolderBackUp\bin\Debug\net6.0-windows\CreateFolderBackUp.exe
+C:\Users\pasto\Desktop\c#Projects\CreateFolderBackUp\CreateFolderBackUp\bin\Debug\net6.0-windows\CreateFolderBackUp.deps.json
+C:\Users\pasto\Desktop\c#Projects\CreateFolderBackUp\CreateFolderBackUp\bin\Debug\net6.0-windows\CreateFolderBackUp.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\CreateFolderBackUp\CreateFolderBackUp\bin\Debug\net6.0-windows\CreateFolderBackUp.dll
+C:\Users\pasto\Desktop\c#Projects\CreateFolderBackUp\CreateFolderBackUp\bin\Debug\net6.0-windows\CreateFolderBackUp.pdb
+C:\Users\pasto\Desktop\c#Projects\CreateFolderBackUp\CreateFolderBackUp\obj\Debug\net6.0-windows\CreateFolderBackUp.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\CreateFolderBackUp\CreateFolderBackUp\obj\Debug\net6.0-windows\CreateFolderBackUp.Form1.resources
+C:\Users\pasto\Desktop\c#Projects\CreateFolderBackUp\CreateFolderBackUp\obj\Debug\net6.0-windows\CreateFolderBackUp.csproj.GenerateResource.cache
+C:\Users\pasto\Desktop\c#Projects\CreateFolderBackUp\CreateFolderBackUp\obj\Debug\net6.0-windows\CreateFolderBackUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\CreateFolderBackUp\CreateFolderBackUp\obj\Debug\net6.0-windows\CreateFolderBackUp.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\CreateFolderBackUp\CreateFolderBackUp\obj\Debug\net6.0-windows\CreateFolderBackUp.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\CreateFolderBackUp\CreateFolderBackUp\obj\Debug\net6.0-windows\CreateFolderBackUp.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\CreateFolderBackUp\CreateFolderBackUp\obj\Debug\net6.0-windows\CreateFolderBackUp.dll
+C:\Users\pasto\Desktop\c#Projects\CreateFolderBackUp\CreateFolderBackUp\obj\Debug\net6.0-windows\refint\CreateFolderBackUp.dll
+C:\Users\pasto\Desktop\c#Projects\CreateFolderBackUp\CreateFolderBackUp\obj\Debug\net6.0-windows\CreateFolderBackUp.pdb
+C:\Users\pasto\Desktop\c#Projects\CreateFolderBackUp\CreateFolderBackUp\obj\Debug\net6.0-windows\CreateFolderBackUp.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\CreateFolderBackUp\CreateFolderBackUp\obj\Debug\net6.0-windows\ref\CreateFolderBackUp.dll
