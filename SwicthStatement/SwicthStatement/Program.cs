@@ -1,8 +1,9 @@
-﻿
+﻿//Switch Statement
+
 Console.WriteLine("Enter the age of the new candidate: ");
 int age = int.Parse(Console.ReadLine());
 
-//if(age < 18)
+//if (age < 18)
 //{
 //    Console.WriteLine("Too young to apply");
 //    Console.WriteLine("Send email to candidate.");
@@ -16,31 +17,32 @@ int age = int.Parse(Console.ReadLine());
 //{
 //    Console.WriteLine("Great you can now start the application");
 //}
+
+// Switch Statement
+
 switch (age)
 {
     case < 18:
     case > 65:
-        //Console.WriteLine("Too young to apply fro the job");
-        Console.WriteLine("Sorry, your AGE IS NOT WITHIN THE RANGE WE ARE LOOKING FOR");
+        Console.WriteLine("Sorry, your age is not within the rage we are looking for");
         break;
-    //case > 65:
-    //    Console.WriteLine("Sorry, the selected age is too old");
-    //    break;
     case 42:
-        Console.WriteLine("Great, you can start now with the application");
+        Console.WriteLine("Great you can now start the application");
         break;
     default:
-        Console.WriteLine("great you can continue");
+        Console.WriteLine("Great you can continue");
         break;
 }
 
-Console.WriteLine("\n======================\n");
-//CREATING AN APPLICATION
+Console.WriteLine("\n============================\n");
+
+// Application
 
 Console.WriteLine("Choose the action you want to do:");
-Console.WriteLine("1. Add employee");
+Console.WriteLine("1. Add emplyee");
 Console.WriteLine("2. Update employee");
 Console.WriteLine("3. Delete employee");
+
 string selectedAction = Console.ReadLine();
 
 switch (selectedAction)
@@ -49,10 +51,10 @@ switch (selectedAction)
         Console.WriteLine("Adding new employee ...");
         break;
     case "2":
-        Console.WriteLine("Updating new employee ...");
+        Console.WriteLine("Update new employee ...");
         break;
     case "3":
-        Console.WriteLine("Deleting new employee ...");
+        Console.WriteLine("Delete new employee ...");
         break;
     default:
         Console.WriteLine("Invalid input");

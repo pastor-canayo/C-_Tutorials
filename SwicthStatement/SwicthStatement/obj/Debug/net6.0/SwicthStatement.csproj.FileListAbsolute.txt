@@ -1,0 +1,15 @@
+C:\Users\pasto\Desktop\c#Projects\SwicthStatement\SwicthStatement\bin\Debug\net6.0\SwicthStatement.exe
+C:\Users\pasto\Desktop\c#Projects\SwicthStatement\SwicthStatement\bin\Debug\net6.0\SwicthStatement.deps.json
+C:\Users\pasto\Desktop\c#Projects\SwicthStatement\SwicthStatement\bin\Debug\net6.0\SwicthStatement.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\SwicthStatement\SwicthStatement\bin\Debug\net6.0\SwicthStatement.dll
+C:\Users\pasto\Desktop\c#Projects\SwicthStatement\SwicthStatement\bin\Debug\net6.0\SwicthStatement.pdb
+C:\Users\pasto\Desktop\c#Projects\SwicthStatement\SwicthStatement\obj\Debug\net6.0\SwicthStatement.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\SwicthStatement\SwicthStatement\obj\Debug\net6.0\SwicthStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\SwicthStatement\SwicthStatement\obj\Debug\net6.0\SwicthStatement.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\SwicthStatement\SwicthStatement\obj\Debug\net6.0\SwicthStatement.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\SwicthStatement\SwicthStatement\obj\Debug\net6.0\SwicthStatement.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\SwicthStatement\SwicthStatement\obj\Debug\net6.0\SwicthStatement.dll
+C:\Users\pasto\Desktop\c#Projects\SwicthStatement\SwicthStatement\obj\Debug\net6.0\refint\SwicthStatement.dll
+C:\Users\pasto\Desktop\c#Projects\SwicthStatement\SwicthStatement\obj\Debug\net6.0\SwicthStatement.pdb
+C:\Users\pasto\Desktop\c#Projects\SwicthStatement\SwicthStatement\obj\Debug\net6.0\SwicthStatement.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\SwicthStatement\SwicthStatement\obj\Debug\net6.0\ref\SwicthStatement.dll
