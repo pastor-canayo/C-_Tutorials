@@ -1,0 +1,15 @@
+C:\Users\pasto\Desktop\c#Projects\AddingClass\AddingClass\bin\Debug\net6.0\AddingClass.exe
+C:\Users\pasto\Desktop\c#Projects\AddingClass\AddingClass\bin\Debug\net6.0\AddingClass.deps.json
+C:\Users\pasto\Desktop\c#Projects\AddingClass\AddingClass\bin\Debug\net6.0\AddingClass.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\AddingClass\AddingClass\bin\Debug\net6.0\AddingClass.dll
+C:\Users\pasto\Desktop\c#Projects\AddingClass\AddingClass\bin\Debug\net6.0\AddingClass.pdb
+C:\Users\pasto\Desktop\c#Projects\AddingClass\AddingClass\obj\Debug\net6.0\AddingClass.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\AddingClass\AddingClass\obj\Debug\net6.0\AddingClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\AddingClass\AddingClass\obj\Debug\net6.0\AddingClass.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\AddingClass\AddingClass\obj\Debug\net6.0\AddingClass.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\AddingClass\AddingClass\obj\Debug\net6.0\AddingClass.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\AddingClass\AddingClass\obj\Debug\net6.0\AddingClass.dll
+C:\Users\pasto\Desktop\c#Projects\AddingClass\AddingClass\obj\Debug\net6.0\refint\AddingClass.dll
+C:\Users\pasto\Desktop\c#Projects\AddingClass\AddingClass\obj\Debug\net6.0\AddingClass.pdb
+C:\Users\pasto\Desktop\c#Projects\AddingClass\AddingClass\obj\Debug\net6.0\AddingClass.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\AddingClass\AddingClass\obj\Debug\net6.0\ref\AddingClass.dll

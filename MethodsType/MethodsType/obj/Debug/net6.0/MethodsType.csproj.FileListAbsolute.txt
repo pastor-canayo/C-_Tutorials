@@ -1,0 +1,15 @@
+C:\Users\pasto\Desktop\c#Projects\MethodsType\MethodsType\bin\Debug\net6.0\MethodsType.exe
+C:\Users\pasto\Desktop\c#Projects\MethodsType\MethodsType\bin\Debug\net6.0\MethodsType.deps.json
+C:\Users\pasto\Desktop\c#Projects\MethodsType\MethodsType\bin\Debug\net6.0\MethodsType.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\MethodsType\MethodsType\bin\Debug\net6.0\MethodsType.dll
+C:\Users\pasto\Desktop\c#Projects\MethodsType\MethodsType\bin\Debug\net6.0\MethodsType.pdb
+C:\Users\pasto\Desktop\c#Projects\MethodsType\MethodsType\obj\Debug\net6.0\MethodsType.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\MethodsType\MethodsType\obj\Debug\net6.0\MethodsType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\MethodsType\MethodsType\obj\Debug\net6.0\MethodsType.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\MethodsType\MethodsType\obj\Debug\net6.0\MethodsType.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\MethodsType\MethodsType\obj\Debug\net6.0\MethodsType.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\MethodsType\MethodsType\obj\Debug\net6.0\MethodsType.dll
+C:\Users\pasto\Desktop\c#Projects\MethodsType\MethodsType\obj\Debug\net6.0\refint\MethodsType.dll
+C:\Users\pasto\Desktop\c#Projects\MethodsType\MethodsType\obj\Debug\net6.0\MethodsType.pdb
+C:\Users\pasto\Desktop\c#Projects\MethodsType\MethodsType\obj\Debug\net6.0\MethodsType.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\MethodsType\MethodsType\obj\Debug\net6.0\ref\MethodsType.dll
