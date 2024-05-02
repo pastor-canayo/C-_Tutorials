@@ -1,0 +1,15 @@
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum\CreatingEnum\obj\Debug\net6.0\CreatingEnum.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum\CreatingEnum\obj\Debug\net6.0\CreatingEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum\CreatingEnum\obj\Debug\net6.0\CreatingEnum.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum\CreatingEnum\obj\Debug\net6.0\CreatingEnum.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum\CreatingEnum\obj\Debug\net6.0\CreatingEnum.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum\CreatingEnum\bin\Debug\net6.0\CreatingEnum.exe
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum\CreatingEnum\bin\Debug\net6.0\CreatingEnum.deps.json
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum\CreatingEnum\bin\Debug\net6.0\CreatingEnum.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum\CreatingEnum\bin\Debug\net6.0\CreatingEnum.dll
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum\CreatingEnum\bin\Debug\net6.0\CreatingEnum.pdb
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum\CreatingEnum\obj\Debug\net6.0\CreatingEnum.dll
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum\CreatingEnum\obj\Debug\net6.0\refint\CreatingEnum.dll
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum\CreatingEnum\obj\Debug\net6.0\CreatingEnum.pdb
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum\CreatingEnum\obj\Debug\net6.0\CreatingEnum.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum\CreatingEnum\obj\Debug\net6.0\ref\CreatingEnum.dll

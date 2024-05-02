@@ -1,0 +1,15 @@
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum2\CreatingEnum2\bin\Debug\net6.0\CreatingEnum2.exe
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum2\CreatingEnum2\bin\Debug\net6.0\CreatingEnum2.deps.json
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum2\CreatingEnum2\bin\Debug\net6.0\CreatingEnum2.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum2\CreatingEnum2\bin\Debug\net6.0\CreatingEnum2.dll
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum2\CreatingEnum2\bin\Debug\net6.0\CreatingEnum2.pdb
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum2\CreatingEnum2\obj\Debug\net6.0\CreatingEnum2.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum2\CreatingEnum2\obj\Debug\net6.0\CreatingEnum2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum2\CreatingEnum2\obj\Debug\net6.0\CreatingEnum2.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum2\CreatingEnum2\obj\Debug\net6.0\CreatingEnum2.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum2\CreatingEnum2\obj\Debug\net6.0\CreatingEnum2.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum2\CreatingEnum2\obj\Debug\net6.0\CreatingEnum2.dll
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum2\CreatingEnum2\obj\Debug\net6.0\refint\CreatingEnum2.dll
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum2\CreatingEnum2\obj\Debug\net6.0\CreatingEnum2.pdb
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum2\CreatingEnum2\obj\Debug\net6.0\CreatingEnum2.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\CreatingEnum2\CreatingEnum2\obj\Debug\net6.0\ref\CreatingEnum2.dll

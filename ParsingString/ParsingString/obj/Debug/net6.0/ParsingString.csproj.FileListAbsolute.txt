@@ -1,0 +1,15 @@
+C:\Users\pasto\Desktop\c#Projects\ParsingString\ParsingString\bin\Debug\net6.0\ParsingString.exe
+C:\Users\pasto\Desktop\c#Projects\ParsingString\ParsingString\bin\Debug\net6.0\ParsingString.deps.json
+C:\Users\pasto\Desktop\c#Projects\ParsingString\ParsingString\bin\Debug\net6.0\ParsingString.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\ParsingString\ParsingString\bin\Debug\net6.0\ParsingString.dll
+C:\Users\pasto\Desktop\c#Projects\ParsingString\ParsingString\bin\Debug\net6.0\ParsingString.pdb
+C:\Users\pasto\Desktop\c#Projects\ParsingString\ParsingString\obj\Debug\net6.0\ParsingString.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\ParsingString\ParsingString\obj\Debug\net6.0\ParsingString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\ParsingString\ParsingString\obj\Debug\net6.0\ParsingString.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\ParsingString\ParsingString\obj\Debug\net6.0\ParsingString.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\ParsingString\ParsingString\obj\Debug\net6.0\ParsingString.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\ParsingString\ParsingString\obj\Debug\net6.0\ParsingString.dll
+C:\Users\pasto\Desktop\c#Projects\ParsingString\ParsingString\obj\Debug\net6.0\refint\ParsingString.dll
+C:\Users\pasto\Desktop\c#Projects\ParsingString\ParsingString\obj\Debug\net6.0\ParsingString.pdb
+C:\Users\pasto\Desktop\c#Projects\ParsingString\ParsingString\obj\Debug\net6.0\ParsingString.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\ParsingString\ParsingString\obj\Debug\net6.0\ref\ParsingString.dll

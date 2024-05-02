@@ -1,0 +1,15 @@
+C:\Users\pasto\Desktop\c#Projects\ScapeCharacters\ScapeCharacters\bin\Debug\net6.0\ScapeCharacters.exe
+C:\Users\pasto\Desktop\c#Projects\ScapeCharacters\ScapeCharacters\bin\Debug\net6.0\ScapeCharacters.deps.json
+C:\Users\pasto\Desktop\c#Projects\ScapeCharacters\ScapeCharacters\bin\Debug\net6.0\ScapeCharacters.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\ScapeCharacters\ScapeCharacters\bin\Debug\net6.0\ScapeCharacters.dll
+C:\Users\pasto\Desktop\c#Projects\ScapeCharacters\ScapeCharacters\bin\Debug\net6.0\ScapeCharacters.pdb
+C:\Users\pasto\Desktop\c#Projects\ScapeCharacters\ScapeCharacters\obj\Debug\net6.0\ScapeCharacters.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\ScapeCharacters\ScapeCharacters\obj\Debug\net6.0\ScapeCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\ScapeCharacters\ScapeCharacters\obj\Debug\net6.0\ScapeCharacters.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\ScapeCharacters\ScapeCharacters\obj\Debug\net6.0\ScapeCharacters.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\ScapeCharacters\ScapeCharacters\obj\Debug\net6.0\ScapeCharacters.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\ScapeCharacters\ScapeCharacters\obj\Debug\net6.0\ScapeCharacters.dll
+C:\Users\pasto\Desktop\c#Projects\ScapeCharacters\ScapeCharacters\obj\Debug\net6.0\refint\ScapeCharacters.dll
+C:\Users\pasto\Desktop\c#Projects\ScapeCharacters\ScapeCharacters\obj\Debug\net6.0\ScapeCharacters.pdb
+C:\Users\pasto\Desktop\c#Projects\ScapeCharacters\ScapeCharacters\obj\Debug\net6.0\ScapeCharacters.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\ScapeCharacters\ScapeCharacters\obj\Debug\net6.0\ref\ScapeCharacters.dll

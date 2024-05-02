@@ -1,0 +1,15 @@
+C:\Users\pasto\Desktop\c#Projects\CreatingClassesAndObjects\CreatingClassesAndObjects\bin\Debug\net6.0\CreatingClassesAndObjects.exe
+C:\Users\pasto\Desktop\c#Projects\CreatingClassesAndObjects\CreatingClassesAndObjects\bin\Debug\net6.0\CreatingClassesAndObjects.deps.json
+C:\Users\pasto\Desktop\c#Projects\CreatingClassesAndObjects\CreatingClassesAndObjects\bin\Debug\net6.0\CreatingClassesAndObjects.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\CreatingClassesAndObjects\CreatingClassesAndObjects\bin\Debug\net6.0\CreatingClassesAndObjects.dll
+C:\Users\pasto\Desktop\c#Projects\CreatingClassesAndObjects\CreatingClassesAndObjects\bin\Debug\net6.0\CreatingClassesAndObjects.pdb
+C:\Users\pasto\Desktop\c#Projects\CreatingClassesAndObjects\CreatingClassesAndObjects\obj\Debug\net6.0\CreatingClassesAndObjects.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\CreatingClassesAndObjects\CreatingClassesAndObjects\obj\Debug\net6.0\CreatingClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\CreatingClassesAndObjects\CreatingClassesAndObjects\obj\Debug\net6.0\CreatingClassesAndObjects.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\CreatingClassesAndObjects\CreatingClassesAndObjects\obj\Debug\net6.0\CreatingClassesAndObjects.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\CreatingClassesAndObjects\CreatingClassesAndObjects\obj\Debug\net6.0\CreatingClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\CreatingClassesAndObjects\CreatingClassesAndObjects\obj\Debug\net6.0\CreatingClassesAndObjects.dll
+C:\Users\pasto\Desktop\c#Projects\CreatingClassesAndObjects\CreatingClassesAndObjects\obj\Debug\net6.0\refint\CreatingClassesAndObjects.dll
+C:\Users\pasto\Desktop\c#Projects\CreatingClassesAndObjects\CreatingClassesAndObjects\obj\Debug\net6.0\CreatingClassesAndObjects.pdb
+C:\Users\pasto\Desktop\c#Projects\CreatingClassesAndObjects\CreatingClassesAndObjects\obj\Debug\net6.0\CreatingClassesAndObjects.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\CreatingClassesAndObjects\CreatingClassesAndObjects\obj\Debug\net6.0\ref\CreatingClassesAndObjects.dll

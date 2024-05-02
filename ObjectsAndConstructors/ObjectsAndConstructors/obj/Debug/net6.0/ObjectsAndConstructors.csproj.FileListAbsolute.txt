@@ -1,0 +1,15 @@
+C:\Users\pasto\Desktop\c#Projects\ObjectsAndConstructors\ObjectsAndConstructors\bin\Debug\net6.0\ObjectsAndConstructors.exe
+C:\Users\pasto\Desktop\c#Projects\ObjectsAndConstructors\ObjectsAndConstructors\bin\Debug\net6.0\ObjectsAndConstructors.deps.json
+C:\Users\pasto\Desktop\c#Projects\ObjectsAndConstructors\ObjectsAndConstructors\bin\Debug\net6.0\ObjectsAndConstructors.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\ObjectsAndConstructors\ObjectsAndConstructors\bin\Debug\net6.0\ObjectsAndConstructors.dll
+C:\Users\pasto\Desktop\c#Projects\ObjectsAndConstructors\ObjectsAndConstructors\bin\Debug\net6.0\ObjectsAndConstructors.pdb
+C:\Users\pasto\Desktop\c#Projects\ObjectsAndConstructors\ObjectsAndConstructors\obj\Debug\net6.0\ObjectsAndConstructors.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\ObjectsAndConstructors\ObjectsAndConstructors\obj\Debug\net6.0\ObjectsAndConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\ObjectsAndConstructors\ObjectsAndConstructors\obj\Debug\net6.0\ObjectsAndConstructors.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\ObjectsAndConstructors\ObjectsAndConstructors\obj\Debug\net6.0\ObjectsAndConstructors.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\ObjectsAndConstructors\ObjectsAndConstructors\obj\Debug\net6.0\ObjectsAndConstructors.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\ObjectsAndConstructors\ObjectsAndConstructors\obj\Debug\net6.0\ObjectsAndConstructors.dll
+C:\Users\pasto\Desktop\c#Projects\ObjectsAndConstructors\ObjectsAndConstructors\obj\Debug\net6.0\refint\ObjectsAndConstructors.dll
+C:\Users\pasto\Desktop\c#Projects\ObjectsAndConstructors\ObjectsAndConstructors\obj\Debug\net6.0\ObjectsAndConstructors.pdb
+C:\Users\pasto\Desktop\c#Projects\ObjectsAndConstructors\ObjectsAndConstructors\obj\Debug\net6.0\ObjectsAndConstructors.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\ObjectsAndConstructors\ObjectsAndConstructors\obj\Debug\net6.0\ref\ObjectsAndConstructors.dll
