@@ -1,0 +1,15 @@
+C:\Users\pasto\Desktop\c#Projects\CreatingStrruct\CreatingStrruct\obj\Debug\net6.0\CreatingStrruct.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\CreatingStrruct\CreatingStrruct\obj\Debug\net6.0\CreatingStrruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\CreatingStrruct\CreatingStrruct\obj\Debug\net6.0\CreatingStrruct.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\CreatingStrruct\CreatingStrruct\obj\Debug\net6.0\CreatingStrruct.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\CreatingStrruct\CreatingStrruct\obj\Debug\net6.0\CreatingStrruct.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\CreatingStrruct\CreatingStrruct\bin\Debug\net6.0\CreatingStrruct.exe
+C:\Users\pasto\Desktop\c#Projects\CreatingStrruct\CreatingStrruct\bin\Debug\net6.0\CreatingStrruct.deps.json
+C:\Users\pasto\Desktop\c#Projects\CreatingStrruct\CreatingStrruct\bin\Debug\net6.0\CreatingStrruct.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\CreatingStrruct\CreatingStrruct\bin\Debug\net6.0\CreatingStrruct.dll
+C:\Users\pasto\Desktop\c#Projects\CreatingStrruct\CreatingStrruct\bin\Debug\net6.0\CreatingStrruct.pdb
+C:\Users\pasto\Desktop\c#Projects\CreatingStrruct\CreatingStrruct\obj\Debug\net6.0\CreatingStrruct.dll
+C:\Users\pasto\Desktop\c#Projects\CreatingStrruct\CreatingStrruct\obj\Debug\net6.0\refint\CreatingStrruct.dll
+C:\Users\pasto\Desktop\c#Projects\CreatingStrruct\CreatingStrruct\obj\Debug\net6.0\CreatingStrruct.pdb
+C:\Users\pasto\Desktop\c#Projects\CreatingStrruct\CreatingStrruct\obj\Debug\net6.0\CreatingStrruct.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\CreatingStrruct\CreatingStrruct\obj\Debug\net6.0\ref\CreatingStrruct.dll

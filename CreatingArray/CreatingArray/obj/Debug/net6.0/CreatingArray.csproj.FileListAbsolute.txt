@@ -1,0 +1,15 @@
+C:\Users\pasto\Desktop\c#Projects\CreatingArray\CreatingArray\bin\Debug\net6.0\CreatingArray.exe
+C:\Users\pasto\Desktop\c#Projects\CreatingArray\CreatingArray\bin\Debug\net6.0\CreatingArray.deps.json
+C:\Users\pasto\Desktop\c#Projects\CreatingArray\CreatingArray\bin\Debug\net6.0\CreatingArray.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\CreatingArray\CreatingArray\bin\Debug\net6.0\CreatingArray.dll
+C:\Users\pasto\Desktop\c#Projects\CreatingArray\CreatingArray\bin\Debug\net6.0\CreatingArray.pdb
+C:\Users\pasto\Desktop\c#Projects\CreatingArray\CreatingArray\obj\Debug\net6.0\CreatingArray.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\CreatingArray\CreatingArray\obj\Debug\net6.0\CreatingArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\CreatingArray\CreatingArray\obj\Debug\net6.0\CreatingArray.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\CreatingArray\CreatingArray\obj\Debug\net6.0\CreatingArray.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\CreatingArray\CreatingArray\obj\Debug\net6.0\CreatingArray.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\CreatingArray\CreatingArray\obj\Debug\net6.0\CreatingArray.dll
+C:\Users\pasto\Desktop\c#Projects\CreatingArray\CreatingArray\obj\Debug\net6.0\refint\CreatingArray.dll
+C:\Users\pasto\Desktop\c#Projects\CreatingArray\CreatingArray\obj\Debug\net6.0\CreatingArray.pdb
+C:\Users\pasto\Desktop\c#Projects\CreatingArray\CreatingArray\obj\Debug\net6.0\CreatingArray.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\CreatingArray\CreatingArray\obj\Debug\net6.0\ref\CreatingArray.dll
