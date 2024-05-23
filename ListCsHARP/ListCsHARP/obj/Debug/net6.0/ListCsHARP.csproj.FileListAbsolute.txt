@@ -1,0 +1,15 @@
+C:\Users\pasto\Desktop\c#Projects\ListCsHARP\ListCsHARP\bin\Debug\net6.0\ListCsHARP.exe
+C:\Users\pasto\Desktop\c#Projects\ListCsHARP\ListCsHARP\bin\Debug\net6.0\ListCsHARP.deps.json
+C:\Users\pasto\Desktop\c#Projects\ListCsHARP\ListCsHARP\bin\Debug\net6.0\ListCsHARP.runtimeconfig.json
+C:\Users\pasto\Desktop\c#Projects\ListCsHARP\ListCsHARP\bin\Debug\net6.0\ListCsHARP.dll
+C:\Users\pasto\Desktop\c#Projects\ListCsHARP\ListCsHARP\bin\Debug\net6.0\ListCsHARP.pdb
+C:\Users\pasto\Desktop\c#Projects\ListCsHARP\ListCsHARP\obj\Debug\net6.0\ListCsHARP.csproj.AssemblyReference.cache
+C:\Users\pasto\Desktop\c#Projects\ListCsHARP\ListCsHARP\obj\Debug\net6.0\ListCsHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasto\Desktop\c#Projects\ListCsHARP\ListCsHARP\obj\Debug\net6.0\ListCsHARP.AssemblyInfoInputs.cache
+C:\Users\pasto\Desktop\c#Projects\ListCsHARP\ListCsHARP\obj\Debug\net6.0\ListCsHARP.AssemblyInfo.cs
+C:\Users\pasto\Desktop\c#Projects\ListCsHARP\ListCsHARP\obj\Debug\net6.0\ListCsHARP.csproj.CoreCompileInputs.cache
+C:\Users\pasto\Desktop\c#Projects\ListCsHARP\ListCsHARP\obj\Debug\net6.0\ListCsHARP.dll
+C:\Users\pasto\Desktop\c#Projects\ListCsHARP\ListCsHARP\obj\Debug\net6.0\refint\ListCsHARP.dll
+C:\Users\pasto\Desktop\c#Projects\ListCsHARP\ListCsHARP\obj\Debug\net6.0\ListCsHARP.pdb
+C:\Users\pasto\Desktop\c#Projects\ListCsHARP\ListCsHARP\obj\Debug\net6.0\ListCsHARP.genruntimeconfig.cache
+C:\Users\pasto\Desktop\c#Projects\ListCsHARP\ListCsHARP\obj\Debug\net6.0\ref\ListCsHARP.dll
